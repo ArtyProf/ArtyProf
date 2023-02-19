@@ -8,8 +8,8 @@ I aim to become a dynamic and solution-oriented software engineer to help more p
 
 ### Socials
 
-[![LinkedIn](https://www.linkedin.com/in/arty-prof)](https://www.linkedin.com/in/arty-prof)
-[![Link tree](https://linktr.ee/arty_prof)](https://linktr.ee/arty_prof)
+[![LinkedIn]([https://www.linkedin.com/in/arty-prof](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor))](https://www.linkedin.com/in/arty-prof)
+[![Link tree]([https://linktr.ee/arty_prof](https://img.shields.io/badge/-linktree-green?style=for-the-badge&logo=appveyor))](https://linktr.ee/arty_prof)
 
-##$ Stats
+### Stats
 ![](https://komarev.com/ghpvc/?username=ArtyProfe&color=green)
