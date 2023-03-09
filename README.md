@@ -10,7 +10,3 @@ I am experieced engineer with 5+ years of experience. Now mostly focus on .NET, 
 
 ### Stats
 ![](https://komarev.com/ghpvc/?username=ArtyProfe&color=green)
-
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyprof&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
-</div>
