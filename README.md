@@ -9,4 +9,4 @@ I am experieced engineer with 5+ years of experience. Now mostly focus on .NET, 
 [![LinkTree](https://img.shields.io/badge/-linktree-green?style=for-the-badge&logo=appveyor)](https://linktr.ee/arty_prof)
 
 ### Stats
-![](https://komarev.com/ghpvc/?username=ArtyProfe&color=green)
+[![Artur Khutak profile views](https://u8views.com/api/v1/github/profiles/28942912/views/day-week-month-total-count.svg)](https://u8views.com/github/ArtyProf)
