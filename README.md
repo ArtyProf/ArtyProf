@@ -8,19 +8,9 @@ I aim to become a dynamic and solution-oriented software engineer to help more p
 
 Key Technologies:
 
-**C#**
-
-**.NET**
-
-**Typescript**
-
-**Angular**
-
-**Playwright**
-
-**Azure**
-
-**AWS**
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" />
+<img src="https://skillicons.dev/icons?i=docker,azure,aws" />
 
 ### Socials
 
